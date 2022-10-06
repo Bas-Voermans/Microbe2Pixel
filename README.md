@@ -9,4 +9,4 @@ Microbe2Pixel outperforms all other tested methods from both tested perspectives
 Keywords: metagenomics, interpretable deep-learning, local explenations.
 
 
-(https://github.com/Bas-Voermans/Microbe2Pixel-SDM23-/blob/main/graphical_abstract.png)
+![graphical abstract](https://github.com/Bas-Voermans/Microbe2Pixel-SDM23-/blob/main/graphical_abstract.png)
