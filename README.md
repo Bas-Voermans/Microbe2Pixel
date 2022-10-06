@@ -7,3 +7,6 @@ Here, we propose Microbe2Pixel, a novel technique for implementing deep neural n
 Microbe2Pixel outperforms all other tested methods from both tested perspectives. The feature importance values have greater significance according to the current knowledge of microbiology and are more robust (regarding the number of samples used to train the model). This is especially significant for the use of deep-learning in smaller interventional clinical trials (e.g., fecal microbial transplant studies), where large sample sizes are not attainable.
 
 Keywords: metagenomics, interpretable deep-learning, local explenations.
+
+
+(https://github.com/Bas-Voermans/Microbe2Pixel-SDM23-/blob/main/graphical_abstract.png)
