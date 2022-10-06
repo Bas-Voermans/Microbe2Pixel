@@ -1,5 +1,9 @@
-# Microbe2Pixel-SDM23
+# Microbe2Pixel
 
+## Introduction
+This repo contains the images and code used in an example of Microbe2Pixel on a publicy available ![Cirrhosis Dataset](https://www.nature.com/articles/nature13568)
+
+## Abstract
 In recent years, machine learning (and particularly deep-learning) has gained significant attention in the biomedical domain. For example, deep-learning has become a go-to method for medical image analysis tasks. In other areas, such as metagenomics analysis, the application of deep-learning is still underdeveloped. This can be attributed to the tabular nature of metagenomics data, sparsity of features and the complexity, leading to (perceived) unexplainability, of deep-learning techniques.
 
 Here, we propose Microbe2Pixel, a novel technique for implementing deep neural networks to fecal metagenomics data by incorporating taxonomic information in an image-based data representation. An important advantage of our method is the use of transfer learning, decreasing the number of samples needed for training. Furthermore, we develop a local model-agnostic feature importance algorithm that gives interpretable explanations which we evaluate in comparison to other local image explainer methods using quantitative (statistical performance) and qualitative (biological relevance) assessments.
